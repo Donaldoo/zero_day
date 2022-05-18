@@ -15,4 +15,4 @@ rem Ipsum is simply dummy text of the printing and typesetting industry. Lorem I
 
 [link](www.google.com)
 
-![alt image] (https://cambridgecarbonmap.org/wp-content/uploads/2021/09/coding.png)
+![alt text](https://cambridgecarbonmap.org/wp-content/uploads/2021/09/coding.png)
