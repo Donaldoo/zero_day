@@ -1,6 +1,6 @@
 # Holberton
 
-##Class
+## Class
 **Wednesday 27th**
 
 
